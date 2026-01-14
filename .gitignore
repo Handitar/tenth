@@ -3,6 +3,9 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+.idea
+file.txt
+words.txt
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
